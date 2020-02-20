@@ -9,6 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="org.junit.jupiter:junit-jupiter-api:5.4.0" level="project" />
     <orderEntry type="library" exported="" name="org.apache.ant:ant-junit4:1.10.5" level="project" />
-    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="library" exported="" name="javafx" level="project" />
   </component>
 </module>
